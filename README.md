@@ -10,6 +10,6 @@
 
 Это моя первая **репозитория**.
 
-!(Python.jpg)
+![Python](Python.jpg)
 
-(Основы Markdown)[https://www.markdownguide.org/basic-syntax/#images-1]
+[Основы Markdown](https://www.markdownguide.org/basic-syntax/#images-1)
