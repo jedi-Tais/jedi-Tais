@@ -13,3 +13,8 @@
 ![Python](Python.jpg)
 
 [Основы Markdown](https://www.markdownguide.org/basic-syntax/#images-1)
+
+
+```python
+x = 5
+```
