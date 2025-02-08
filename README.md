@@ -1,5 +1,15 @@
 # Обо мне
 
-Это моя первая репозитория.
+- one
+- two
+- three
 
-<img src="Python.jpg" />
+1. one
+2. two
+
+
+Это моя первая **репозитория**.
+
+!(Python.jpg)
+
+(Основы Markdown)[https://www.markdownguide.org/basic-syntax/#images-1]
